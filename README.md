@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hello World 👋
 
-<!--
-**Rodolfo-Fonseca/Rodolfo-Fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola, me chamo Rodolfo e sou estudante de ciência da computação e apaixonado por tecnologia desde novo com uma grande ambição de fazer um grande futuro na área e gostaria de usar esse espaço para mostrar meu avanço no aprendizado de programação.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+
