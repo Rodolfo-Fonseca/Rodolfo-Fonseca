@@ -14,7 +14,7 @@ Ola, me chamo Rodolfo e sou estudante de ciência da computação e apaixonado p
 <h3 align="center">Rodolfo-Fonseca</h3>
 
 <p align="center">
-  <img alt="snake animation" src="github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://github-contribution-grid-snake.svg">
 </p>
 
 
