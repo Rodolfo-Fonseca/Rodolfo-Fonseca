@@ -7,6 +7,7 @@ Ola, me chamo Rodolfo e sou estudante de ciência da computação e apaixonado p
 - 📫 Email para contato: rodolfolfonseca@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Rodolfo-Fonseca&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Rodolfo-Fonseca`s Github stats ](https://github-stats-extended.vercel.app/api?username=Rodolfo-Fonseca&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Rodolfo-Fonseca&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)  [![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=Rodolfo-Fonseca&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Rodolfo-Fonseca&langs_count=5&theme=radical)
+
 
 
