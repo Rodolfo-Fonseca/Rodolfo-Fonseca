@@ -9,6 +9,13 @@ Ola, me chamo Rodolfo e sou estudante de ciência da computação e apaixonado p
 
 [![Rodolfo-Fonseca`s Github stats ](https://github-stats-extended.vercel.app/api?username=Rodolfo-Fonseca&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Rodolfo-Fonseca&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)  [![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=Rodolfo-Fonseca&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Rodolfo-Fonseca&langs_count=5&theme=radical)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+
+
+
+          
+
+
 
 
 
